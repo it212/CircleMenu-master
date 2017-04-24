@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="B:\Life\CircleMenu-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8486cdd52642a5536f933a1743e5b34836b73436">
+        <dex dex="B:\Life\CircleMenu-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_28dd22f43a2c531a9e3788572a361febf93d5efd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Life\CircleMenu-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d9ba5073bfe1512b15568694779bfed97623acc">
+        <dex dex="B:\Life\CircleMenu-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5b1255a11d2e73e5fac62433dac199fe4efb0096\classes.dex" />
+    </item>
+
+</items>

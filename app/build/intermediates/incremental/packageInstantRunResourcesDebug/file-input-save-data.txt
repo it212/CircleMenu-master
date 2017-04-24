@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Mon Apr 24 15:17:21 CST 2017
+2.base=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\icon_facebook.png
+2.set=ANDROID_RESOURCE
+4.base=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\icon_wordpress.png
+7.set=ANDROID_RESOURCE
+count=10
+0.file=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+5.base=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\icon_google.png
+4.set=ANDROID_RESOURCE
+6.base=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\icon_linkedin.png
+9.set=ANDROID_RESOURCE
+9.file=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+6.set=ANDROID_RESOURCE
+0.base=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\icon_twitter.png
+3.set=ANDROID_RESOURCE
+1.base=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=B\:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\icon_myspace.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

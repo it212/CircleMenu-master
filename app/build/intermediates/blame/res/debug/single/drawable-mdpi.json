@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "B:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_facebook.png",
+        "source": "B:\\Life\\CircleMenu-master\\app\\src\\main\\res\\drawable-mdpi\\icon_facebook.png"
+    },
+    {
+        "merged": "B:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_twitter.png",
+        "source": "B:\\Life\\CircleMenu-master\\app\\src\\main\\res\\drawable-mdpi\\icon_twitter.png"
+    },
+    {
+        "merged": "B:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_google.png",
+        "source": "B:\\Life\\CircleMenu-master\\app\\src\\main\\res\\drawable-mdpi\\icon_google.png"
+    },
+    {
+        "merged": "B:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_wordpress.png",
+        "source": "B:\\Life\\CircleMenu-master\\app\\src\\main\\res\\drawable-mdpi\\icon_wordpress.png"
+    },
+    {
+        "merged": "B:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_linkedin.png",
+        "source": "B:\\Life\\CircleMenu-master\\app\\src\\main\\res\\drawable-mdpi\\icon_linkedin.png"
+    },
+    {
+        "merged": "B:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_myspace.png",
+        "source": "B:\\Life\\CircleMenu-master\\app\\src\\main\\res\\drawable-mdpi\\icon_myspace.png"
+    },
+    {
+        "merged": "B:\\Life\\CircleMenu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "B:\\Life\\CircleMenu-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
